@@ -14,7 +14,7 @@ class Persona:
         self.first_name = first_name
         self.last_name = last_name
         
-        name = "Mi nombre"
-        person1 = person('person1', 'apellido1')
+      name = "Mi nombre"
+      person1 = person('person1', 'apellido1')
         
    
